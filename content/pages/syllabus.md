@@ -14,11 +14,11 @@ Prerequisites
 
 Recommended prerequisites are:
 
-[_7.03 Genetics_](/courses/7-03-genetics-fall-2004/)
+[_7.03 Genetics_](/courses/7-03-genetics-fall-2004)
 
 _7.05 General Biochemistry_
 
-[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007/)
+[_7.06 Cell Biology_](/courses/7-06-cell-biology-spring-2007)
 
 [_7.08J Biological Chemistry II_](/courses/5-08j-biological-chemistry-ii-spring-2004/)
 
